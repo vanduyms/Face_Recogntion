@@ -2,10 +2,15 @@
 
 Bước 1. Chuẩn bị Data
   Data cần chuẩn bị phải nằm trong thư mục Data, có cấu trúc:
+    
     -- Data
+      
       -- Your name
+        
         -- img1.jpg
+        
         -- img2.jpg
+        
         -- ........
   
 Bước 2. Thực hiện train mô hình
